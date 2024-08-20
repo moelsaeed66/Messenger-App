@@ -1,5 +1,5 @@
-## Messenger App
-# Simulation messenger application using
+# Messenger App
+## Simulation messenger application using
 + laravel
 + mysql
 + pusher
